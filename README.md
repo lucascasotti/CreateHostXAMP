@@ -1,3 +1,5 @@
+# CreateHostXamp
+
 Shell Script to create a host into XAMP for Windows and open with Sublime Text using https://github.com/git-for-windows/git.
 
 For execute this script use sudo /path/createHost.sh hostName gitRepository
